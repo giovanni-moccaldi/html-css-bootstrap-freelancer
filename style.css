@@ -1,21 +1,18 @@
-.col {
-    width: 100%;
-    min-height: 500px;
-    background-color: rgb(43, 109, 33);
+.verde {
+    background-color: green;
+    height: 500px;
 }
 
-.row {
-    width: 100%;
+.yellow {
+    background-color: aqua;
+    height: 500px;
 }
 
 img {
-    width: 230px;
+    width: 280px;
 }
 
-.col_ {
-    background-color: aqua;
-    min-height: 500px;
-}
+
 
 ul {
     list-style-type: none;
