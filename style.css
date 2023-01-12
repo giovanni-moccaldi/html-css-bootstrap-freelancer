@@ -1,0 +1,36 @@
+.col {
+    width: 100%;
+    min-height: 500px;
+    background-color: rgb(43, 109, 33);
+}
+
+.row {
+    width: 100%;
+}
+
+img {
+    width: 230px;
+}
+
+.col_ {
+    background-color: aqua;
+    min-height: 500px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.end {
+    height: 200px;
+    background-color: blue;
+}
+
+.location {
+    width: 200px;
+}
+
+footer {
+    height: 50px;
+    background-color: rgb(44, 44, 151);
+}
