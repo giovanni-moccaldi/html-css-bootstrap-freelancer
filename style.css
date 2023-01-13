@@ -1,15 +1,23 @@
 .verde {
-    background-color: green;
+    background-color: #53bd9d;
     height: 500px;
+    color: white;
 }
 
 .yellow {
     background-color: aqua;
     height: 500px;
+
+}
+
+.footer {
+    height: 100px;
+    background-color: #3a546d;
+    color: white;
 }
 
 img {
-    width: 280px;
+    width: 300px;
 }
 
 
@@ -19,15 +27,6 @@ ul {
 }
 
 .end {
-    height: 200px;
-    background-color: blue;
-}
-
-.location {
-    width: 200px;
-}
-
-footer {
-    height: 50px;
-    background-color: rgb(44, 44, 151);
+    color: white;
+    background-color: #2c3e50;
 }
