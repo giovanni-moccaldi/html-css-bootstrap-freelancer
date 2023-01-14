@@ -18,9 +18,16 @@
 
 img {
     width: 300px;
+    height: 300px;
 }
 
+.logo {
+    border: 1px solid rgb(239, 234, 234);
+    border-radius: 50%;
+    width: 30px;
+    text-align: center;
 
+}
 
 ul {
     list-style-type: none;
@@ -29,4 +36,5 @@ ul {
 .end {
     color: white;
     background-color: #2c3e50;
+    height: 60px;
 }
