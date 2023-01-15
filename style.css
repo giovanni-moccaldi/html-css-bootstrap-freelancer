@@ -11,13 +11,13 @@
 }
 
 .footer {
-    height: 100px;
+    height: 100%;
     background-color: #3a546d;
     color: white;
 }
 
 img {
-    width: 300px;
+    width: 350px;
     height: 300px;
 }
 
@@ -25,6 +25,7 @@ img {
     border: 1px solid rgb(239, 234, 234);
     border-radius: 50%;
     width: 30px;
+    height: 30px;
     text-align: center;
 
 }
